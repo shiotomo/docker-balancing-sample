@@ -10,7 +10,7 @@ DockerComposeとNginxを使ってロードバランサの動きを確認する�
 - DockerCompose
 - Nginx
 - Ruby
-- sinatra
+- Sinatra
 
 ## 実行方法
 
