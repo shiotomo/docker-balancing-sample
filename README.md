@@ -1,6 +1,6 @@
 # docker-balancing-sample
 
-## これのリポジトリについて'
+## これのリポジトリについて
 
 DockerComposeとNginxを使ってロードバランサの動きを確認するためのものです。
 
